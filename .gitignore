@@ -1,0 +1,26 @@
+### https://raw.github.com/github/gitignore/8c9b77cb5c85f6464c0bb31abdf4cfcfdf6833bb/Global/Linux.gitignore
+
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+
+### https://raw.github.com/github/gitignore/8c9b77cb5c85f6464c0bb31abdf4cfcfdf6833bb/Global/Vim.gitignore
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
+### https://raw.github.com/github/gitignore/8c9b77cb5c85f6464c0bb31abdf4cfcfdf6833bb/Global/Vagrant.gitignore
+
+.vagrant/
+Vagrantfile
+
